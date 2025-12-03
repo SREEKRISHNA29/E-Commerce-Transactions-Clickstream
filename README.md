@@ -77,3 +77,12 @@ Top features influencing purchase behavior.
 User patterns correlated with conversions.
 
 Business insights to improve sales funnel.
+
+g) Requirements
+
+pandas
+scikit-learn
+xgboost
+joblib
+numpy
+
